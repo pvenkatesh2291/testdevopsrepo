@@ -3,3 +3,10 @@ hi guys,
 this is our first file which is being edited for git commit purpose.
 
 thank you.
+
+
+hi guys,
+this is the second tie i am editing this file to show you the git commands.
+
+thank you.
+
