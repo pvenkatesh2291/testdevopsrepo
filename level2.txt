@@ -1,5 +1,0 @@
-
-hi folks
-this is git stash concept and this is our new requirement.
-thank you
-
